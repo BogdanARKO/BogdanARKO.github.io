@@ -9,27 +9,8 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     .q1 {
-        color: darkred;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
-    .q2{
-        color: gray;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
-    .q3{
-        color: greenyellow;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
-    .q4{
-        color: indigo;
-        font-family: unsImpact, Haettenschweiler, 'Arial Narrow Bold', sans-serift;
-    }
-    .q5{
-        color: tomato;
-        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    }
-    .q6{
-        color:royalblue ;
+      background-color:#64C9CF ;
+       color:#FDE49C ;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     h1{
@@ -59,6 +40,11 @@ p{
         height: auto;
         display: block;
         background-color: royalblue;
+    }
+    h3{
+     color: cornflowerblue;  
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 60px;
     }
     
    
